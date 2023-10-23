@@ -1,0 +1,40 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: aqua;
+  border: inset;
+}
+.CourseDesrciption {
+  background-color: rgb(116, 224, 157);
+}
+
+.test-series {
+  background-color: rgb(161, 221, 31);
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 10px;
+}
+
+.test-series h2 {
+  font-size: 24px;
+  color: #333;
+}
+
+.test-series-item {
+  margin-bottom: 20px;
+}
+
+.test-series-item h3 {
+  font-size: 20px;
+  color: #007bff;
+}
+
+.test-series-item p {
+  font-size: 16px;
+  color: #666;
+}
+
+.test-series-item ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
